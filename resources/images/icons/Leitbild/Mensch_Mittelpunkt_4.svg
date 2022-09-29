@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 130.39 130.39" style="enable-background:new 0 0 130.39 130.39;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:none;stroke:#000000;stroke-width:1.7008;stroke-linecap:round;stroke-miterlimit:10;}
+	.st3{opacity:0.6;}
+	.st4{fill:none;stroke:#000000;stroke-width:1.7008;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#000000;stroke-width:1.7008;stroke-miterlimit:10;}
+</style>
+<g id="Ebene_2">
+	
+		<radialGradient id="SVGID_1_" cx="65.0806" cy="-287.5216" r="62.79" gradientTransform="matrix(1 0 0 -1 0 -222.4409)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#24AAE5"/>
+		<stop  offset="0.2917" style="stop-color:#24AAE5;stop-opacity:0.82"/>
+		<stop  offset="0.4511" style="stop-color:#24AAE5;stop-opacity:0.63"/>
+		<stop  offset="0.5848" style="stop-color:#24AAE5;stop-opacity:0.43"/>
+		<stop  offset="0.7054" style="stop-color:#24AAE5;stop-opacity:0.25"/>
+		<stop  offset="0.8416" style="stop-color:#24AAE5;stop-opacity:0"/>
+	</radialGradient>
+	<circle class="st0" cx="65.08" cy="65.08" r="62.79"/>
+</g>
+<g id="Ebene_3">
+	
+		<radialGradient id="SVGID_2_" cx="65.0806" cy="-287.5216" r="62.79" gradientTransform="matrix(1 0 0 -1 0 -222.4409)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.1814" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.524" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</radialGradient>
+	<circle class="st1" cx="65.08" cy="65.08" r="62.79"/>
+</g>
+<g id="Ebene_1">
+	<g>
+		<g>
+			<path class="st2" d="M41.44,65.51L41.44,65.51c3.93,0,7.11-3.18,7.11-7.11v-3.55c0-3.92-3.18-7.11-7.11-7.11l0,0
+				c-3.92,0-7.11,3.18-7.11,7.11v3.55C34.34,62.33,37.52,65.51,41.44,65.51z"/>
+		</g>
+		<polyline class="st2" points="45,65.51 45,69.06 52.85,71.82 		"/>
+		<path class="st2" d="M37.89,65.51v3.55l-9.91,3.48c-2.61,1.12-4.31,3.69-4.31,6.53v24.63"/>
+	</g>
+	<line class="st2" x1="30.78" y1="88.6" x2="30.78" y2="109.03"/>
+	<g class="st3">
+		<g>
+			<g>
+				<path class="st2" d="M87.64,65.51L87.64,65.51c-3.92,0-7.11-3.18-7.11-7.11v-3.55c0-3.92,3.18-7.11,7.11-7.11l0,0
+					c3.93,0,7.11,3.18,7.11,7.11v3.55C94.74,62.33,91.56,65.51,87.64,65.51z"/>
+			</g>
+			<polyline class="st2" points="84.08,65.51 84.08,69.06 76.23,71.82 			"/>
+			<path class="st2" d="M91.19,65.51v3.55l9.91,3.48c2.61,1.12,4.31,3.69,4.31,6.53v23.74"/>
+		</g>
+		<line class="st2" x1="98.3" y1="88.6" x2="98.3" y2="108.15"/>
+	</g>
+	<g>
+		<g>
+			<path class="st4" d="M68.67,60.04c-1.06,1.13-2.55,1.84-4.21,1.84h0c-1.74,0-3.31-0.78-4.37-2.02"/>
+			<path class="st4" d="M55.64,51.1h-2.06c-0.42,0-0.76,0.34-0.76,0.76v5.33c0,0.93,0.76,1.69,1.69,1.69h1.14"/>
+			<path class="st4" d="M73.42,51.1h2.09c0.42,0,0.76,0.34,0.76,0.76v5.33c0,0.93-0.76,1.69-1.69,1.69h-1.17"/>
+			<path class="st4" d="M55.64,53.32v-7.89c0-3,2.43-5.44,5.44-5.44h6.9c3,0,5.44,2.43,5.44,5.44v7.89"/>
+		</g>
+		<line class="st4" x1="60.08" y1="52.21" x2="60.08" y2="54.43"/>
+		<line class="st4" x1="68.97" y1="52.21" x2="68.97" y2="54.43"/>
+		<path class="st4" d="M60.08,43.32L60.08,43.32c0,2.45,1.99,4.44,4.44,4.44h8.89"/>
+	</g>
+	<g>
+		<g>
+			<path class="st5" d="M69.87,64.86c-1.54,1.08-3.18,1.82-5.33,1.82l0,0"/>
+		</g>
+		<path class="st4" d="M73.42,58.88c0,2.9-1.41,4.35-3.55,5.98v5.53l10.18,3.1c3.49,1.29,5.81,4.61,5.81,8.33v19.22
+			c0,3.36-3.07,5.88-6.37,5.23l-19.61-3.54"/>
+		<path class="st4" d="M76.98,86.22v12.44h-7.11l-19.95,7.53c-3.38,0.9-6.7-1.65-6.7-5.15V81.78c0-3.74,2.34-7.07,5.85-8.35
+			l10.14-3.04v-5.53c-2.15-1.62-3.55-3.98-3.55-5.98"/>
+		<polyline class="st4" points="52.1,86.22 52.1,96.88 64.54,93.32 71.65,93.32 		"/>
+		<line class="st4" x1="50.33" y1="106.37" x2="50.33" y2="118.91"/>
+		<line class="st4" x1="78.75" y1="106.37" x2="78.75" y2="118.91"/>
+	</g>
+</g>
+</svg>
